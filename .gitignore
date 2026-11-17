@@ -1,0 +1,21 @@
+
+# Simulation executables
+*.out
+*.exe
+a.out
+array_sim
+array_tb
+scheduler_sim
+scheduler_tb
+accelerator_sim
+
+# Waveform files
+*.vcd
+*.fst
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code workspace settings (optional)
+.vscode/
